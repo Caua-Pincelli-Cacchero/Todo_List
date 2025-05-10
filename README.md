@@ -1,2 +1,2 @@
 # Todo_List
-Criando uma TodoList com java e banco de dados MySQL
+Uma TodoList utilizando Java e banco de dados relacional MySQL. Com funcionalidades de fazer login, adicionar, remover, atualizar e deletar uma tarefa (CRUD).
